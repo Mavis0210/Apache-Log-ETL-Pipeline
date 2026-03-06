@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-As a Technical Operations Engineer pivoting to Data Engineering, I built this Python pipeline to automate the analysis of raw server logs. The goal was to replace manual log inspection with an automated script that extracts key metrics like traffic volume and error rates.
+As a Technical Operations Engineer pivoting to Data Engineering, I built this Python pipeline to automate the analysis of raw server logs. The goal was to replace manual log inspection with an automated script that extracts key metrics, such as traffic volume and error rates.
 
 
 ### The Problem
