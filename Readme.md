@@ -31,8 +31,8 @@ I developed a Python script that:
 
 
 ### Key Insights
-Analyzed 10,000 log entries in seconds.
-Identified the top 5 IP addresses (potential bot traffic).
+* Analyzed 10,000 log entries in seconds.
+* Identified the top 5 IP addresses (potential bot traffic).
 Visualized the distribution of critical errors to prioritize fixes.
 
 ### How to Run

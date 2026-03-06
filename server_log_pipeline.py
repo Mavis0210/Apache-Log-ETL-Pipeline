@@ -96,7 +96,7 @@ if __name__ == "__main__":
     print(endpoint_report.head())
     
 
-    #---VISUALIZE (The Report)
+    #---VISUALIZE (The Report)---
     errors = clean_df[clean_df['status'] >= 400] 
     plt.figure(figsize=(10, 6))
     # Create a Bar Chart of the Top 10 Broken Pages
